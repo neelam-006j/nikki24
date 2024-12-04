@@ -1,1 +1,2 @@
 this is git
+hello this me the machine
